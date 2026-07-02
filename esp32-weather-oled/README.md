@@ -39,7 +39,8 @@ Hum: 65 %
 
 > **Lưu ý:** Đây là chân mặc định của ESP32 cho giao tiếp I2C. Bạn hoàn toàn có thể đổi sang chân GPIO khác phù hợp với board của mình — xem phần [Tùy chỉnh chân SDA/SCL](#tùy-chỉnh-chân-sdascl) bên dưới.
 
-![Sơ đồ đấu nối](wiring_diagram.png)
+![Sơ đồ đấu nối]
+<img width="1010" height="685" alt="image" src="https://github.com/user-attachments/assets/0c2517a8-34de-4f16-87e4-d362ce246a8d" />
 
 ## Yêu cầu thư viện (Arduino IDE)
 
