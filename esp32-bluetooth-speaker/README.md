@@ -110,7 +110,6 @@ a2dp_sink.start("ESP32_LOA");  // Tên thiết bị hiện trên danh sách Blue
 ```
 esp32-bluetooth-speaker/
 ├── ESP32_Bluetooth_Speaker.ino
-├── wiring_diagram.png
 └── README.md
 ```
 
