@@ -14,6 +14,11 @@ Khoi dong ESP32 Bluetooth Speaker...
 San sang! Hay mo Bluetooth tren dien thoai va ket noi voi 'ESP32_LOA'
 ```
 
+
+https://github.com/user-attachments/assets/ec027887-4252-4335-9a48-ce9f8d313ffc
+
+
+
 ## Tính năng
 
 - Nhận âm thanh qua Bluetooth A2DP (Sink) — không cần app riêng, dùng Bluetooth mặc định của điện thoại
@@ -47,7 +52,8 @@ San sang! Hay mo Bluetooth tren dien thoai va ket noi voi 'ESP32_LOA'
 
 >  Vì chữ số GPIO trên board trong ảnh khá nhỏ và có thể khó đọc chính xác 100%, **bạn nên tự kiểm tra lại trực tiếp trên board ESP32 thật của mình** xem mỗi dây màu đang cắm vào chân GPIO số mấy, rồi điền đúng số đó vào code — tránh cấp nhầm chân gây lỗi không lên tiếng hoặc chập mạch.
 
-![Sơ đồ đấu nối](wiring_diagram.png)
+<img width="632" height="597" alt="wiring_diagram_1" src="https://github.com/user-attachments/assets/7fd7898b-0f1d-4bac-ae21-9c4ec8e7b68b" />
+
 
 ## Yêu cầu thư viện (cài thủ công bằng ZIP — không có trên Library Manager)
 
